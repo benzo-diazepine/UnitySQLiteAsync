@@ -1,0 +1,12 @@
+{
+    "name": "com.kdw9502.sqliteasync",
+    "displayName": "UnitySQLiteAsync test",
+    "author": { "name": "kdw9502", "url": "https://github.com/kdw9502/UnitySQLiteAsync" },
+    "version": "1.1.2",
+    "unity": "2020.3",
+    "description": "Asynchronous SQLite-net support for Unity",
+    "keywords": [ "async/await", "async", "Databases", "UniTask", "SQLite-net", "SQLite" ],
+    "license": "MIT",
+    "category": "Databases",
+    "dependencies": {}
+}
